@@ -1,0 +1,12 @@
+{
+    "name": "Code To Copy Template",
+    "version": "1.0.0",
+    "description": "CP Template",
+    "manifest_version": 3,
+    "author": "Akshay Chatterjee",
+    "action":{
+        "default_icon": "icon.png",
+        "default_popup": "index.html",
+        "default_title": "CP Template"
+    }
+}
